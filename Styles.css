@@ -1,0 +1,16 @@
+body {
+    background-color:teal;
+    border: solid black;
+    border-radius:  4%;
+    margin: 5% 20% 5% 20%; 
+}
+
+.container {
+    background-color:lightblue;  
+    padding: 20px;
+    border-radius: 4%;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
